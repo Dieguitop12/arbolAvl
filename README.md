@@ -1,1 +1,2 @@
 # arbolAvl
+Desarrollar un programa que permita ingresar claves de tipo entero (mínimo 10) desordenadas, las cuales forman parte de un árbol binario de búsqueda, cuya raíz es el primer elemento ingresado por el usuario. El programa debe permitir presentar el árbol binario de búsqueda, aplicando el algoritmo de inserción.  La presentación del árbol es por consola o gráfica (como prefieran los estudiantes). 
